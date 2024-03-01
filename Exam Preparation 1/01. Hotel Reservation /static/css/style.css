@@ -10,7 +10,7 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     place-items: center;
-    background-image: url("../img/zero.jpg");
+    background-image: url("../zero.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
